@@ -7,3 +7,8 @@ https://x.com/Nat_Pepes
 the script to reveal you pepe:
 
 https://fractal-static.unisat.io/content/537b2bb294db3cd2b109247c28167b9d548c19466024f94dc99e087a3d527379i0
+
+
+if you want check valid inscriptions and details about your natpepe:
+
+https://drive.google.com/file/d/1SJeStRHQLntkQD4y7_YBQMtnuooK4Udy/view?usp=sharing
