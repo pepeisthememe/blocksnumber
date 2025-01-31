@@ -11,4 +11,6 @@ https://fractal-static.unisat.io/content/537b2bb294db3cd2b109247c28167b9d548c194
 
 if you want check valid inscriptions and details about your natpepe:
 
-https://drive.google.com/file/d/1SJeStRHQLntkQD4y7_YBQMtnuooK4Udy/view?usp=sharing
+https://drive.google.com/file/d/1SJeStRHQLntkQD4y7_YBQMtnuooK4Udy/view?usp=sharing   file json
+
+https://drive.google.com/file/d/1E4uWeJkunzpHN7kCtKPQtMPLy7vSMM0u/view?usp=sharing  file txt
